@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "text": "Hello, welcome to our application!",
+      "timestamp": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "text": "Your profile has been updated successfully.",
+      "timestamp": "2025-01-02T11:30:00Z"
+    },
+    {
+      "id": 3,
+      "text": "You have a new notification.",
+      "timestamp": "2025-01-03T14:15:00Z"
+    },
+    {
+      "id": 4,
+      "text": "Thank you for your purchase!",
+      "timestamp": "2025-01-04T09:45:00Z"
+    },
+    {
+      "id": 5,
+      "text": "Your order has been shipped.",
+      "timestamp": "2025-01-05T16:20:00Z"
+    },
+    {
+      "id": 6,
+      "text": "Please verify your email address.",
+      "timestamp": "2025-01-06T08:30:00Z"
+    },
+    {
+      "id": 7,
+      "text": "Your subscription will expire soon.",
+      "timestamp": "2025-01-07T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "text": "New features are now available!",
+      "timestamp": "2025-01-08T10:15:00Z"
+    },
+    {
+      "id": 9,
+      "text": "System maintenance scheduled for tonight.",
+      "timestamp": "2025-01-09T18:00:00Z"
+    },
+    {
+      "id": 10,
+      "text": "Thank you for being a valued customer!",
+      "timestamp": "2025-01-10T13:45:00Z"
+    }
+  ]
+}
